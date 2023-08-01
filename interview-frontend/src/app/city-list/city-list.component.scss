@@ -1,0 +1,17 @@
+.city-list {
+  padding: 20px;
+  width: 800px;
+  margin: auto;
+}
+
+.city-table {
+  width: 800px;
+}
+
+.search-form-field {
+  width: 800px;
+}
+
+::ng-deep .mat-form-field-underline {
+  display: none;
+}
